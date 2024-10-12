@@ -34,14 +34,5 @@ My name is Randy Fay.
 19. 💬 Commented on [#36](https://github.com/ddev/github-action-add-on-test/issues/36#issuecomment-2407741547) in [ddev/github-action-add-on-test](https://github.com/ddev/github-action-add-on-test)<br>
 20. 💬 Commented on [#1](https://github.com/rfay/ddev-ibexa-cloud/issues/1#issuecomment-2407704385) in [rfay/ddev-ibexa-cloud](https://github.com/rfay/ddev-ibexa-cloud)<br>
 <!--RECENT_ACTIVITY:end-->
-      srcset="https://github-readme-stats.vercel.app/api?username=rfay&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=rfay&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=rfay&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
-  </picture>
 
 </details>
