@@ -5,6 +5,7 @@ settings:
   readme_file: "./README.md"
   disabled_events:
     - "star"
+    - "push"
   url_text: "{REPO}{ID}"
   commit_name: "github-actions[bot]"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
