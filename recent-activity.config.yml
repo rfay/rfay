@@ -1,11 +1,9 @@
 settings:
   username: "rfay"
   commit_msg: "Updated recent activity"
-  max_lines: 10
+  max_lines: 20
   readme_file: "./README.md"
   disabled_events:
-    - "comments"
-    - "fork"
     - "star"
   url_text: "{REPO}{ID}"
   commit_name: "github-actions[bot]"
