@@ -1,13 +1,12 @@
-[][Discord]
 
 <h3>Hi there :wave:</h3>
 
 My name is Randy Fay.
 
-- Leader of the [DDEV](https://github.com/ddev/ddev) project.
+- Lead maintainer of the [DDEV](https://github.com/ddev/ddev) project.
 - Strong ties and many friends in the Drupal community.
 - Working with many types of code since the 1980s.
-- Join me in the DDEV ![DDEV Discord](https://img.shields.io/discord/664580571770388500?color=7289da&label=discord&logo=discord&logoColor=white_
+- Join me in the DDEV ![DDEV Discord](https://img.shields.io/discord/664580571770388500?color=7289da&label=discord&logo=discord&logoColor=white_)
 - Check out the [DDEV Stack Overflow](https://stackoverflow.com/tags/ddev) questions and answers.
 
 <details>
