@@ -11,6 +11,8 @@ settings:
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   ignored_repos:
     - rfay/rfay
+    - rfay/ddev
+    - rfay/ddev-ibexa-cloud
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
