@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6867](https://github.com/ddev/ddev/pull/6867) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💪 Opened PR [#6866](https://github.com/ddev/ddev/pull/6866) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. ❗️ Opened issue [#6865](https://github.com/ddev/ddev/issues/6865) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. ✔️ Closed issue [#6462](https://github.com/ddev/ddev/issues/6462) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 🎉 Merged PR [#6851](https://github.com/ddev/ddev/pull/6851) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 🎉 Merged PR [#6848](https://github.com/ddev/ddev/pull/6848) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 🎉 Merged PR [#6846](https://github.com/ddev/ddev/pull/6846) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 🎉 Merged PR [#6829](https://github.com/ddev/ddev/pull/6829) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 🎉 Merged PR [#6863](https://github.com/ddev/ddev/pull/6863) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 🎉 Merged PR [#6864](https://github.com/ddev/ddev/pull/6864) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#58](https://github.com/ddev/ddev-cron/issues/58#issuecomment-2564048546) in [ddev/ddev-cron](https://github.com/ddev/ddev-cron)<br>
-12. 💬 Commented on [#6864](https://github.com/ddev/ddev/pull/6864#issuecomment-2564033724) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 👍 Approved [#6846](https://github.com/ddev/ddev/pull/6846#pullrequestreview-2524379517) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#6846](https://github.com/ddev/ddev/pull/6846#discussion_r1898672408) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 💬 Commented on [#6848](https://github.com/ddev/ddev/pull/6848#issuecomment-2563952426) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#6851](https://github.com/ddev/ddev/pull/6851#issuecomment-2563946179) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#6846](https://github.com/ddev/ddev/pull/6846#discussion_r1898662770) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 💬 Commented on [#6862](https://github.com/ddev/ddev/pull/6862#issuecomment-2563934974) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💪 Opened PR [#6864](https://github.com/ddev/ddev/pull/6864) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💬 Commented on [#6848](https://github.com/ddev/ddev/pull/6848#issuecomment-2563898541) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 📔 Created new repository [rfay/acquiatest](https://github.com/rfay/acquiatest)<br>
+2. 📔 Created new repository [rfay/svelte-basic](https://github.com/rfay/svelte-basic)<br>
+3. 🎉 Merged PR [#6873](https://github.com/ddev/ddev/pull/6873) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 🔱 Forked [rfay/ddev-node-js-demo](https://github.com/rfay/ddev-node-js-demo) from [Lullabot/ddev-node-js-demo](https://github.com/Lullabot/ddev-node-js-demo)<br>
+5. 🎉 Merged PR [#6877](https://github.com/ddev/ddev/pull/6877) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💪 Opened PR [#6877](https://github.com/ddev/ddev/pull/6877) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#6876](https://github.com/ddev/ddev/pull/6876#discussion_r1902157588) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#6876](https://github.com/ddev/ddev/pull/6876#discussion_r1902152430) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#6876](https://github.com/ddev/ddev/pull/6876#discussion_r1902151312) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 🔴 Requested changes in [#6876](https://github.com/ddev/ddev/pull/6876#pullrequestreview-2529693526) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#1839](https://github.com/acquia/cli/pull/1839#issuecomment-2569793105) in [acquia/cli](https://github.com/acquia/cli)<br>
+12. 💬 Commented on [#6874](https://github.com/ddev/ddev/pull/6874#issuecomment-2569783476) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#6874](https://github.com/ddev/ddev/pull/6874#issuecomment-2569777107) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💪 Opened PR [#6873](https://github.com/ddev/ddev/pull/6873) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 🎉 Merged PR [#302](https://github.com/ddev/ddev.com/pull/302) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+16. 💪 Opened PR [#302](https://github.com/ddev/ddev.com/pull/302) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+17. 🎉 Merged PR [#301](https://github.com/ddev/ddev.com/pull/301) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+18. 💪 Opened PR [#301](https://github.com/ddev/ddev.com/pull/301) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+19. 🎉 Merged PR [#297](https://github.com/ddev/ddev.com/pull/297) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+20. 💬 Commented on [#297](https://github.com/ddev/ddev.com/pull/297#discussion_r1901917053) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
