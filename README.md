@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#6916](https://github.com/ddev/ddev/issues/6916#issuecomment-2661052409) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 🎉 Merged PR [#6985](https://github.com/ddev/ddev/pull/6985) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#6946](https://github.com/ddev/ddev/pull/6946#issuecomment-2661024554) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 🎉 Merged PR [#6984](https://github.com/ddev/ddev/pull/6984) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#6977](https://github.com/ddev/ddev/pull/6977#issuecomment-2660990646) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ❌ Closed PR [#6977](https://github.com/ddev/ddev/pull/6977) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#6894](https://github.com/ddev/ddev/issues/6894#issuecomment-2660434464) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 💬 Commented on [#6983](https://github.com/ddev/ddev/pull/6983#issuecomment-2660317236) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. ❌ Closed PR [#6983](https://github.com/ddev/ddev/pull/6983) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#6985](https://github.com/ddev/ddev/pull/6985#issuecomment-2660179985) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#6983](https://github.com/ddev/ddev/pull/6983#issuecomment-2660149302) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#18461](https://github.com/docker-library/official-images/pull/18461#issuecomment-2660147440) in [docker-library/official-images](https://github.com/docker-library/official-images)<br>
-13. 👍 Approved [#322](https://github.com/ddev/ddev.com/pull/322#pullrequestreview-2618583115) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-14. 💬 Commented on [#6946](https://github.com/ddev/ddev/pull/6946#issuecomment-2660033477) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 👍 Approved [#6989](https://github.com/ddev/ddev/pull/6989#pullrequestreview-2618564152) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#6894](https://github.com/ddev/ddev/issues/6894#issuecomment-2659750837) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. ❗️ Opened issue [#504](https://github.com/perftools/xhgui/issues/504) in [perftools/xhgui](https://github.com/perftools/xhgui)<br>
-18. 💬 Commented on [#6983](https://github.com/ddev/ddev/pull/6983#issuecomment-2659626651) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💬 Commented on [#7810](https://github.com/sulu/sulu/issues/7810#issuecomment-2659558162) in [sulu/sulu](https://github.com/sulu/sulu)<br>
-20. 💬 Commented on [#637](https://github.com/MariaDB/mariadb-docker/issues/637#issuecomment-2659534767) in [MariaDB/mariadb-docker](https://github.com/MariaDB/mariadb-docker)<br>
+1. 💬 Commented on [#7011](https://github.com/ddev/ddev/pull/7011#issuecomment-2676165144) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#6](https://github.com/tyler36/ddev-gitpod-setup/issues/6#issuecomment-2674651856) in [tyler36/ddev-gitpod-setup](https://github.com/tyler36/ddev-gitpod-setup)<br>
+3. 💬 Commented on [#504](https://github.com/perftools/xhgui/issues/504#issuecomment-2674579842) in [perftools/xhgui](https://github.com/perftools/xhgui)<br>
+4. 💬 Commented on [#85](https://github.com/laravel/vs-code-extension/issues/85#issuecomment-2674576993) in [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension)<br>
+5. 💬 Commented on [#43](https://github.com/ddev/ddev-minio/pull/43#issuecomment-2674571654) in [ddev/ddev-minio](https://github.com/ddev/ddev-minio)<br>
+6. 💬 Commented on [#7007](https://github.com/ddev/ddev/pull/7007#issuecomment-2673378968) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#31](https://github.com/ddev/ddev-adminer/issues/31#issuecomment-2673051488) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+8. 🔴 Requested changes in [#7006](https://github.com/ddev/ddev/pull/7006#pullrequestreview-2631441724) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#7006](https://github.com/ddev/ddev/pull/7006#discussion_r1964534535) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#7006](https://github.com/ddev/ddev/pull/7006#discussion_r1964514343) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#7006](https://github.com/ddev/ddev/pull/7006#discussion_r1964529056) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#31](https://github.com/ddev/ddev-adminer/issues/31#issuecomment-2672991839) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+13. 💬 Commented on [#7009](https://github.com/ddev/ddev/pull/7009#issuecomment-2672454831) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#7009](https://github.com/ddev/ddev/pull/7009#issuecomment-2672439633) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💬 Commented on [#6441](https://github.com/ddev/ddev/issues/6441#issuecomment-2672079803) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#6441](https://github.com/ddev/ddev/issues/6441#issuecomment-2672077276) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#7003](https://github.com/ddev/ddev/issues/7003#issuecomment-2672059213) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#85](https://github.com/laravel/vs-code-extension/issues/85#issuecomment-2671916801) in [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension)<br>
+19. 💪 Opened PR [#7009](https://github.com/ddev/ddev/pull/7009) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#85](https://github.com/laravel/vs-code-extension/issues/85#issuecomment-2671882847) in [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
