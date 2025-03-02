@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7011](https://github.com/ddev/ddev/pull/7011#issuecomment-2676165144) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#6](https://github.com/tyler36/ddev-gitpod-setup/issues/6#issuecomment-2674651856) in [tyler36/ddev-gitpod-setup](https://github.com/tyler36/ddev-gitpod-setup)<br>
-3. 💬 Commented on [#504](https://github.com/perftools/xhgui/issues/504#issuecomment-2674579842) in [perftools/xhgui](https://github.com/perftools/xhgui)<br>
-4. 💬 Commented on [#85](https://github.com/laravel/vs-code-extension/issues/85#issuecomment-2674576993) in [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension)<br>
-5. 💬 Commented on [#43](https://github.com/ddev/ddev-minio/pull/43#issuecomment-2674571654) in [ddev/ddev-minio](https://github.com/ddev/ddev-minio)<br>
-6. 💬 Commented on [#7007](https://github.com/ddev/ddev/pull/7007#issuecomment-2673378968) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#31](https://github.com/ddev/ddev-adminer/issues/31#issuecomment-2673051488) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-8. 🔴 Requested changes in [#7006](https://github.com/ddev/ddev/pull/7006#pullrequestreview-2631441724) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💬 Commented on [#7006](https://github.com/ddev/ddev/pull/7006#discussion_r1964534535) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#7006](https://github.com/ddev/ddev/pull/7006#discussion_r1964514343) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#7006](https://github.com/ddev/ddev/pull/7006#discussion_r1964529056) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#31](https://github.com/ddev/ddev-adminer/issues/31#issuecomment-2672991839) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-13. 💬 Commented on [#7009](https://github.com/ddev/ddev/pull/7009#issuecomment-2672454831) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#7009](https://github.com/ddev/ddev/pull/7009#issuecomment-2672439633) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 💬 Commented on [#6441](https://github.com/ddev/ddev/issues/6441#issuecomment-2672079803) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#6441](https://github.com/ddev/ddev/issues/6441#issuecomment-2672077276) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#7003](https://github.com/ddev/ddev/issues/7003#issuecomment-2672059213) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 💬 Commented on [#85](https://github.com/laravel/vs-code-extension/issues/85#issuecomment-2671916801) in [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension)<br>
-19. 💪 Opened PR [#7009](https://github.com/ddev/ddev/pull/7009) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💬 Commented on [#85](https://github.com/laravel/vs-code-extension/issues/85#issuecomment-2671882847) in [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension)<br>
+1. 💬 Commented on [#7039](https://github.com/ddev/ddev/issues/7039#issuecomment-2691907449) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 👍 Approved [#7037](https://github.com/ddev/ddev/pull/7037#pullrequestreview-2651765052) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💪 Opened PR [#335](https://github.com/ddev/ddev.com/pull/335) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+4. 💬 Commented on [#716](https://github.com/ddev/ddev/issues/716#issuecomment-2691486756) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#334](https://github.com/ddev/ddev.com/pull/334#issuecomment-2690748108) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+6. 💬 Commented on [#7027](https://github.com/ddev/ddev/pull/7027#issuecomment-2690743551) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#689](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/689#issuecomment-2690722134) in [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted)<br>
+8. 💬 Commented on [#7035](https://github.com/ddev/ddev/issues/7035#issuecomment-2690712579) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#716](https://github.com/ddev/ddev/issues/716#issuecomment-2689535178) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#334](https://github.com/ddev/ddev.com/pull/334#discussion_r1974185665) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+11. 💬 Commented on [#334](https://github.com/ddev/ddev.com/pull/334#discussion_r1974188208) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+12. 💬 Commented on [#334](https://github.com/ddev/ddev.com/pull/334#discussion_r1974184778) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+13. 🔴 Requested changes in [#334](https://github.com/ddev/ddev.com/pull/334#pullrequestreview-2648804763) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+14. 💬 Commented on [#334](https://github.com/ddev/ddev.com/pull/334#issuecomment-2688850749) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+15. ❗️ Opened issue [#7034](https://github.com/ddev/ddev/issues/7034) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 👍 Approved [#33](https://github.com/ddev/ddev-adminer/pull/33#pullrequestreview-2648270461) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+17. 💬 Commented on [#7032](https://github.com/ddev/ddev/issues/7032#issuecomment-2688370079) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#7025](https://github.com/ddev/ddev/pull/7025#discussion_r1973792760) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 👍 Approved [#33](https://github.com/ddev/ddev-adminer/pull/33#pullrequestreview-2648083533) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+20. 💬 Commented on [#33](https://github.com/ddev/ddev-adminer/pull/33#discussion_r1973762687) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
