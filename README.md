@@ -6,7 +6,7 @@ My name is Randy Fay.
 - Lead maintainer of the [DDEV](https://github.com/ddev/ddev) project.
 - Strong ties and many friends in the Drupal community.
 - Working with many types of code since the 1980s.
-- Join me in the [DDEV ![DDEV Discord](https://ddev.com/s/discord)
+- Join me in the [![DDEV Discord](https://img.shields.io/discord/664580571770388500?logo=discord&logoColor=%23fff&label=DDEV%20Discord&link=https%3A%2F%2Fddev.com%2Fs%2Fdiscord)](https://ddev.com/s/discord)
 - Check out the [DDEV Stack Overflow](https://stackoverflow.com/tags/ddev) questions and answers.
 
 <details>
