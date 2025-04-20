@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7206](https://github.com/ddev/ddev/pull/7206#discussion_r2040823256) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#3](https://github.com/takielias/ddev-oci8/pull/3#issuecomment-2799062798) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-3. 💬 Commented on [#7204](https://github.com/ddev/ddev/issues/7204#issuecomment-2799055930) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#7204](https://github.com/ddev/ddev/issues/7204#issuecomment-2799054928) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#3](https://github.com/takielias/ddev-oci8/pull/3#issuecomment-2799054669) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-6. 💬 Commented on [#7205](https://github.com/ddev/ddev/pull/7205#discussion_r2040749071) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 🔴 Requested changes in [#7205](https://github.com/ddev/ddev/pull/7205#pullrequestreview-2762263419) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 💬 Commented on [#7205](https://github.com/ddev/ddev/pull/7205#discussion_r2040749137) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💬 Commented on [#7204](https://github.com/ddev/ddev/issues/7204#issuecomment-2799010723) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#7199](https://github.com/ddev/ddev/pull/7199#issuecomment-2798985008) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. ✔️ Closed issue [#7198](https://github.com/ddev/ddev/issues/7198) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 🎉 Merged PR [#7199](https://github.com/ddev/ddev/pull/7199) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💬 Commented on [#2](https://github.com/takielias/ddev-oci8/issues/2#issuecomment-2798977782) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-14. 🎉 Merged PR [#7203](https://github.com/ddev/ddev/pull/7203) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 👍 Approved [#7203](https://github.com/ddev/ddev/pull/7203#pullrequestreview-2762238453) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#7202](https://github.com/ddev/ddev/issues/7202#issuecomment-2798965105) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💪 Opened PR [#3](https://github.com/takielias/ddev-oci8/pull/3) in [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
-18. 💬 Commented on [#7202](https://github.com/ddev/ddev/issues/7202#issuecomment-2798956402) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💬 Commented on [#7204](https://github.com/ddev/ddev/issues/7204#issuecomment-2798951720) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 🔱 Forked [rfay/ddev-oci8](https://github.com/rfay/ddev-oci8) from [takielias/ddev-oci8](https://github.com/takielias/ddev-oci8)<br>
+1. 💬 Commented on [#22](https://github.com/ddev/ddev-mongo/pull/22#discussion_r2049711175) in [ddev/ddev-mongo](https://github.com/ddev/ddev-mongo)<br>
+2. 👍 Approved [#7216](https://github.com/ddev/ddev/pull/7216#pullrequestreview-2777027263) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2814089236) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+4. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2814048499) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+5. 💬 Commented on [#22](https://github.com/ddev/ddev-mongo/pull/22#issuecomment-2814029511) in [ddev/ddev-mongo](https://github.com/ddev/ddev-mongo)<br>
+6. 💬 Commented on [#7215](https://github.com/ddev/ddev/issues/7215#issuecomment-2813979634) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#179](https://github.com/platformsh-templates/drupal10/issues/179#issuecomment-2813974658) in [platformsh-templates/drupal10](https://github.com/platformsh-templates/drupal10)<br>
+8. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2813765370) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+9. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2813738641) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+10. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2813709278) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+11. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2813605267) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+12. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2813524266) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+13. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2813504178) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+14. 💬 Commented on [#34](https://github.com/ddev/addon-registry/pull/34#issuecomment-2813459499) in [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
+15. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2813406313) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+16. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2813391188) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+17. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2813381850) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+18. 💬 Commented on [#414](https://github.com/php-perfect/ddev-intellij-plugin/issues/414#issuecomment-2813380985) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+19. 🎉 Merged PR [#360](https://github.com/ddev/ddev.com/pull/360) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+20. 💬 Commented on [#7213](https://github.com/ddev/ddev/pull/7213#issuecomment-2813089691) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
