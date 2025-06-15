@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7307](https://github.com/ddev/ddev/issues/7307#issuecomment-2906818345) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#7329](https://github.com/ddev/ddev/issues/7329#issuecomment-2905761120) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 🎉 Merged PR [#7327](https://github.com/ddev/ddev/pull/7327) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#7290](https://github.com/ddev/ddev/pull/7290#issuecomment-2902419142) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 👍 Approved [#7327](https://github.com/ddev/ddev/pull/7327#pullrequestreview-2861984737) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 🔴 Requested changes in [#7323](https://github.com/ddev/ddev/pull/7323#pullrequestreview-2858988028) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 👍 Approved [#7321](https://github.com/ddev/ddev/pull/7321#pullrequestreview-2858038720) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 📔 Created new repository [ddev/d11simple-artifacts](https://github.com/ddev/d11simple-artifacts)<br>
-9. 📔 Created new repository [ddev/d11simple](https://github.com/ddev/d11simple)<br>
-10. 💬 Commented on [#7165](https://github.com/ddev/ddev/issues/7165#issuecomment-2897993879) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. ✔️ Closed issue [#7165](https://github.com/ddev/ddev/issues/7165) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#7320](https://github.com/ddev/ddev/issues/7320#issuecomment-2897895285) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💬 Commented on [#7320](https://github.com/ddev/ddev/issues/7320#issuecomment-2897795885) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#13](https://github.com/ddev/ddev-opensearch/issues/13#issuecomment-2896293014) in [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
-15. ✔️ Closed issue [#13](https://github.com/ddev/ddev-opensearch/issues/13) in [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
-16. 💬 Commented on [#10](https://github.com/ddev/ddev-opensearch/issues/10#issuecomment-2895883519) in [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
-17. ✔️ Closed issue [#10](https://github.com/ddev/ddev-opensearch/issues/10) in [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
-18. 💬 Commented on [#13](https://github.com/ddev/ddev-opensearch/issues/13#issuecomment-2895880639) in [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
-19. 💬 Commented on [#10](https://github.com/ddev/ddev-opensearch/issues/10#issuecomment-2895848188) in [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
-20. 💬 Commented on [#13](https://github.com/ddev/ddev-opensearch/issues/13#issuecomment-2895822715) in [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
+1. ✌️ Released [v0.4.0: Updated static-php-cli](https://github.com/rfay/ddev-php-patch-build/releases/tag/v0.4.0) in [rfay/ddev-php-patch-build](https://github.com/rfay/ddev-php-patch-build)<br>
+2. 🎉 Merged PR [#8](https://github.com/rfay/ddev-php-patch-build/pull/8) in [rfay/ddev-php-patch-build](https://github.com/rfay/ddev-php-patch-build)<br>
+3. 💪 Opened PR [#8](https://github.com/rfay/ddev-php-patch-build/pull/8) in [rfay/ddev-php-patch-build](https://github.com/rfay/ddev-php-patch-build)<br>
+4. 🎉 Merged PR [#7](https://github.com/rfay/ddev-php-patch-build/pull/7) in [rfay/ddev-php-patch-build](https://github.com/rfay/ddev-php-patch-build)<br>
+5. 💬 Commented on [#7374](https://github.com/ddev/ddev/pull/7374#issuecomment-2972798216) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ❌ Closed PR [#7374](https://github.com/ddev/ddev/pull/7374) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💪 Opened PR [#7](https://github.com/rfay/ddev-php-patch-build/pull/7) in [rfay/ddev-php-patch-build](https://github.com/rfay/ddev-php-patch-build)<br>
+8. ❗️ Opened issue [#7379](https://github.com/ddev/ddev/issues/7379) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#8775](https://github.com/rancher-sandbox/rancher-desktop/issues/8775#issuecomment-2970628747) in [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop)<br>
+10. 💬 Commented on [#7375](https://github.com/ddev/ddev/pull/7375#issuecomment-2970612959) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#8775](https://github.com/rancher-sandbox/rancher-desktop/issues/8775#issuecomment-2970607362) in [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop)<br>
+12. 👍 Approved [#7356](https://github.com/ddev/ddev/pull/7356#pullrequestreview-2924991131) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#382](https://github.com/ddev/ddev.com/pull/382#discussion_r2145158894) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+14. 💬 Commented on [#382](https://github.com/ddev/ddev.com/pull/382#discussion_r2145149584) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+15. 💬 Commented on [#382](https://github.com/ddev/ddev.com/pull/382#discussion_r2145148701) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+16. 💬 Commented on [#382](https://github.com/ddev/ddev.com/pull/382#discussion_r2145146642) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+17. 🔴 Requested changes in [#382](https://github.com/ddev/ddev.com/pull/382#pullrequestreview-2924912693) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+18. 👍 Approved [#7377](https://github.com/ddev/ddev/pull/7377#pullrequestreview-2924830022) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 👍 Approved [#7378](https://github.com/ddev/ddev/pull/7378#pullrequestreview-2924818371) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#4180](https://github.com/ddev/ddev/issues/4180#issuecomment-2968910325) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
