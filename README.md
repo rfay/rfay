@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.4.0: Updated static-php-cli](https://github.com/rfay/ddev-php-patch-build/releases/tag/v0.4.0) in [rfay/ddev-php-patch-build](https://github.com/rfay/ddev-php-patch-build)<br>
-2. 🎉 Merged PR [#8](https://github.com/rfay/ddev-php-patch-build/pull/8) in [rfay/ddev-php-patch-build](https://github.com/rfay/ddev-php-patch-build)<br>
-3. 💪 Opened PR [#8](https://github.com/rfay/ddev-php-patch-build/pull/8) in [rfay/ddev-php-patch-build](https://github.com/rfay/ddev-php-patch-build)<br>
-4. 🎉 Merged PR [#7](https://github.com/rfay/ddev-php-patch-build/pull/7) in [rfay/ddev-php-patch-build](https://github.com/rfay/ddev-php-patch-build)<br>
-5. 💬 Commented on [#7374](https://github.com/ddev/ddev/pull/7374#issuecomment-2972798216) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ❌ Closed PR [#7374](https://github.com/ddev/ddev/pull/7374) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💪 Opened PR [#7](https://github.com/rfay/ddev-php-patch-build/pull/7) in [rfay/ddev-php-patch-build](https://github.com/rfay/ddev-php-patch-build)<br>
-8. ❗️ Opened issue [#7379](https://github.com/ddev/ddev/issues/7379) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💬 Commented on [#8775](https://github.com/rancher-sandbox/rancher-desktop/issues/8775#issuecomment-2970628747) in [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop)<br>
-10. 💬 Commented on [#7375](https://github.com/ddev/ddev/pull/7375#issuecomment-2970612959) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#8775](https://github.com/rancher-sandbox/rancher-desktop/issues/8775#issuecomment-2970607362) in [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop)<br>
-12. 👍 Approved [#7356](https://github.com/ddev/ddev/pull/7356#pullrequestreview-2924991131) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💬 Commented on [#382](https://github.com/ddev/ddev.com/pull/382#discussion_r2145158894) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-14. 💬 Commented on [#382](https://github.com/ddev/ddev.com/pull/382#discussion_r2145149584) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-15. 💬 Commented on [#382](https://github.com/ddev/ddev.com/pull/382#discussion_r2145148701) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-16. 💬 Commented on [#382](https://github.com/ddev/ddev.com/pull/382#discussion_r2145146642) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-17. 🔴 Requested changes in [#382](https://github.com/ddev/ddev.com/pull/382#pullrequestreview-2924912693) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-18. 👍 Approved [#7377](https://github.com/ddev/ddev/pull/7377#pullrequestreview-2924830022) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 👍 Approved [#7378](https://github.com/ddev/ddev/pull/7378#pullrequestreview-2924818371) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💬 Commented on [#4180](https://github.com/ddev/ddev/issues/4180#issuecomment-2968910325) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#7392](https://github.com/ddev/ddev/pull/7392#issuecomment-2992574955) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💪 Opened PR [#7392](https://github.com/ddev/ddev/pull/7392) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#141](https://github.com/ddev/ddev-platformsh/issues/141#issuecomment-2991996673) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
+4. ✔️ Closed issue [#7366](https://github.com/ddev/ddev/issues/7366) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 🎉 Merged PR [#7390](https://github.com/ddev/ddev/pull/7390) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💬 Commented on [#7391](https://github.com/ddev/ddev/issues/7391#issuecomment-2991637040) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#451](https://github.com/ddev/ddev-intellij-plugin/issues/451#issuecomment-2991504544) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+8. 💬 Commented on [#141](https://github.com/ddev/ddev-platformsh/issues/141#issuecomment-2991411670) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
+9. 💬 Commented on [#141](https://github.com/ddev/ddev-platformsh/issues/141#issuecomment-2991406828) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
+10. 💬 Commented on [#451](https://github.com/ddev/ddev-intellij-plugin/issues/451#issuecomment-2991399655) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+11. 💬 Commented on [#141](https://github.com/ddev/ddev-platformsh/issues/141#issuecomment-2991371009) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
+12. 🎉 Merged PR [#7386](https://github.com/ddev/ddev/pull/7386) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. ✔️ Closed issue [#7201](https://github.com/ddev/ddev/issues/7201) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. ✔️ Closed issue [#5073](https://github.com/ddev/ddev/issues/5073) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 🎉 Merged PR [#7151](https://github.com/ddev/ddev/pull/7151) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 🎉 Merged PR [#7388](https://github.com/ddev/ddev/pull/7388) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 🎉 Merged PR [#7387](https://github.com/ddev/ddev/pull/7387) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 👍 Approved [#7386](https://github.com/ddev/ddev/pull/7386#pullrequestreview-2943733991) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#7366](https://github.com/ddev/ddev/issues/7366#issuecomment-2988496541) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💪 Opened PR [#7390](https://github.com/ddev/ddev/pull/7390) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
