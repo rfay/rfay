@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7412](https://github.com/ddev/ddev/issues/7412#issuecomment-3014867600) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#7412](https://github.com/ddev/ddev/issues/7412#issuecomment-3014439890) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#7402](https://github.com/ddev/ddev/pull/7402#discussion_r2172761252) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#7412](https://github.com/ddev/ddev/issues/7412#issuecomment-3014186273) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#7410](https://github.com/ddev/ddev/pull/7410#discussion_r2172723026) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💬 Commented on [#7410](https://github.com/ddev/ddev/pull/7410#discussion_r2172722308) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#64](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/64#issuecomment-3014152731) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-8. 💬 Commented on [#62](https://github.com/ddev/ddev-selenium-standalone-chrome/issues/62#issuecomment-3014151936) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-9. ✔️ Closed issue [#62](https://github.com/ddev/ddev-selenium-standalone-chrome/issues/62) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-10. ✌️ Released [](https://github.com/ddev-test/ddev/releases/tag/v1.23.76) in [ddev-test/ddev](https://github.com/ddev-test/ddev)<br>
-11. 🎉 Merged PR [#7411](https://github.com/ddev/ddev/pull/7411) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#134](https://github.com/UmbrellaDocs/linkspector/issues/134#issuecomment-3013909772) in [UmbrellaDocs/linkspector](https://github.com/UmbrellaDocs/linkspector)<br>
-13. 💬 Commented on [#7411](https://github.com/ddev/ddev/pull/7411#issuecomment-3013907756) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. ❗️ Opened issue [#1](https://github.com/Laramate/ddev-database-sync/issues/1) in [Laramate/ddev-database-sync](https://github.com/Laramate/ddev-database-sync)<br>
-15. 💬 Commented on [#7411](https://github.com/ddev/ddev/pull/7411#issuecomment-3013697582) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#134](https://github.com/UmbrellaDocs/linkspector/issues/134#issuecomment-3013661553) in [UmbrellaDocs/linkspector](https://github.com/UmbrellaDocs/linkspector)<br>
-17. 🔱 Forked [rfay/action-linkspector](https://github.com/rfay/action-linkspector) from [UmbrellaDocs/action-linkspector](https://github.com/UmbrellaDocs/action-linkspector)<br>
-18. 💪 Opened PR [#7411](https://github.com/ddev/ddev/pull/7411) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. ❌ Closed PR [#2](https://github.com/ddev-test/ddev/pull/2) in [ddev-test/ddev](https://github.com/ddev-test/ddev)<br>
-20. ❌ Closed PR [#1](https://github.com/ddev-test/ddev/pull/1) in [ddev-test/ddev](https://github.com/ddev-test/ddev)<br>
+1. ✌️ Released [](https://github.com/ddev-test/ddev/releases/tag/v1.99.0) in [ddev-test/ddev](https://github.com/ddev-test/ddev)<br>
+2. 💬 Commented on [#7429](https://github.com/ddev/ddev/issues/7429#issuecomment-3038974545) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2187280374) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2187278883) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#7429](https://github.com/ddev/ddev/issues/7429#issuecomment-3038843331) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💪 Opened PR [#388](https://github.com/ddev/ddev.com/pull/388) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+7. ❗️ Opened issue [#7428](https://github.com/ddev/ddev/issues/7428) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#385](https://github.com/ddev/ddev.com/pull/385#discussion_r2186123040) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+9. 💬 Commented on [#7383](https://github.com/ddev/ddev/issues/7383#issuecomment-3037231647) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. ✔️ Closed issue [#7058](https://github.com/ddev/ddev/issues/7058) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 🎉 Merged PR [#7419](https://github.com/ddev/ddev/pull/7419) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 👍 Approved [#7419](https://github.com/ddev/ddev/pull/7419#pullrequestreview-2987991581) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 🎉 Merged PR [#7425](https://github.com/ddev/ddev/pull/7425) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 🎉 Merged PR [#7427](https://github.com/ddev/ddev/pull/7427) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💬 Commented on [#7352](https://github.com/ddev/ddev/issues/7352#issuecomment-3036817575) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#issuecomment-3033911700) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#122](https://github.com/ddev/ddev-drupal-contrib/issues/122#issuecomment-3032683168) in [ddev/ddev-drupal-contrib](https://github.com/ddev/ddev-drupal-contrib)<br>
+18. 👍 Approved [#7427](https://github.com/ddev/ddev/pull/7427#pullrequestreview-2983363200) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#7426](https://github.com/ddev/ddev/issues/7426#issuecomment-3032228280) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 👍 Approved [#386](https://github.com/ddev/ddev.com/pull/386#pullrequestreview-2983107763) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
