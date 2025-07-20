@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#7450](https://github.com/ddev/ddev/issues/7450) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ✌️ Released [](https://github.com/ddev-test/ddev/releases/tag/v1.99.10) in [ddev-test/ddev](https://github.com/ddev-test/ddev)<br>
-3. ✌️ Released [](https://github.com/ddev-test/ddev/releases/tag/v1.99.9) in [ddev-test/ddev](https://github.com/ddev-test/ddev)<br>
-4. 💬 Commented on [#7449](https://github.com/ddev/ddev/pull/7449#issuecomment-3066035802) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#7446](https://github.com/ddev/ddev/pull/7446#issuecomment-3065991959) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💬 Commented on [#7446](https://github.com/ddev/ddev/pull/7446#issuecomment-3065986244) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 🎉 Merged PR [#7448](https://github.com/ddev/ddev/pull/7448) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 👍 Approved [#7448](https://github.com/ddev/ddev/pull/7448#pullrequestreview-3013461122) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 🎉 Merged PR [#7445](https://github.com/ddev/ddev/pull/7445) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#67](https://github.com/phenaproxima/xb-demo/issues/67#issuecomment-3065716518) in [phenaproxima/xb-demo](https://github.com/phenaproxima/xb-demo)<br>
-11. 💬 Commented on [#7449](https://github.com/ddev/ddev/pull/7449#issuecomment-3065659646) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#67](https://github.com/phenaproxima/xb-demo/issues/67#issuecomment-3065646166) in [phenaproxima/xb-demo](https://github.com/phenaproxima/xb-demo)<br>
-13. 💬 Commented on [#67](https://github.com/phenaproxima/xb-demo/issues/67#issuecomment-3065601613) in [phenaproxima/xb-demo](https://github.com/phenaproxima/xb-demo)<br>
-14. 🎉 Merged PR [#7404](https://github.com/ddev/ddev/pull/7404) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. ✌️ Released [](https://github.com/ddev-test/ddev/releases/tag/v1.23.77) in [ddev-test/ddev](https://github.com/ddev-test/ddev)<br>
-16. 💪 Opened PR [#7449](https://github.com/ddev/ddev/pull/7449) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#7448](https://github.com/ddev/ddev/pull/7448#issuecomment-3063919149) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 👍 Approved [#7445](https://github.com/ddev/ddev/pull/7445#pullrequestreview-3012009304) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💪 Opened PR [#390](https://github.com/ddev/ddev.com/pull/390) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-20. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#issuecomment-3062543890) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#7398](https://github.com/ddev/ddev/issues/7398#issuecomment-3092327338) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 🎉 Merged PR [#392](https://github.com/ddev/ddev.com/pull/392) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+3. 💬 Commented on [#7398](https://github.com/ddev/ddev/issues/7398#issuecomment-3092307765) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 💬 Commented on [#7383](https://github.com/ddev/ddev/issues/7383#issuecomment-3091296864) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. ✔️ Closed issue [#7383](https://github.com/ddev/ddev/issues/7383) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ✌️ Released [v1.24.7: Windows installer, MariaDB 11.8 LTS](https://github.com/ddev/ddev/releases/tag/v1.24.7) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 🎉 Merged PR [#7465](https://github.com/ddev/ddev/pull/7465) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 🎉 Merged PR [#7463](https://github.com/ddev/ddev/pull/7463) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#6444](https://github.com/ddev/ddev/issues/6444#issuecomment-3090983203) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 📔 Created new repository [rfay/trywin](https://github.com/rfay/trywin)<br>
+11. 💪 Opened PR [#7465](https://github.com/ddev/ddev/pull/7465) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. ❗️ Opened issue [#7464](https://github.com/ddev/ddev/issues/7464) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 👍 Approved [#7463](https://github.com/ddev/ddev/pull/7463#pullrequestreview-3034459379) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 🔴 Requested changes in [#7463](https://github.com/ddev/ddev/pull/7463#pullrequestreview-3034415626) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. ✔️ Closed issue [#7383](https://github.com/ddev/ddev/issues/7383) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 🎉 Merged PR [#7456](https://github.com/ddev/ddev/pull/7456) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 🎉 Merged PR [#7461](https://github.com/ddev/ddev/pull/7461) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#7461](https://github.com/ddev/ddev/pull/7461#issuecomment-3090141803) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#7460](https://github.com/ddev/ddev/issues/7460#issuecomment-3090047960) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#7462](https://github.com/ddev/ddev/issues/7462#issuecomment-3089955745) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
