@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#423](https://github.com/ddev/ddev.com/pull/423#issuecomment-3229204029) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-2. 👍 Approved [#7570](https://github.com/ddev/ddev/pull/7570#pullrequestreview-3160821580) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 👍 Approved [#7569](https://github.com/ddev/ddev/pull/7569#pullrequestreview-3160653733) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 🔴 Requested changes in [#423](https://github.com/ddev/ddev.com/pull/423#pullrequestreview-3160273482) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-5. 🎉 Merged PR [#7568](https://github.com/ddev/ddev/pull/7568) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💬 Commented on [#422](https://github.com/ddev/ddev.com/issues/422#issuecomment-3228060184) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-7. 📔 Created new repository [ddev/upsun-addon-test](https://github.com/ddev/upsun-addon-test)<br>
-8. 💬 Commented on [#7568](https://github.com/ddev/ddev/pull/7568#issuecomment-3225397489) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💪 Opened PR [#7568](https://github.com/ddev/ddev/pull/7568) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 🎉 Merged PR [#7567](https://github.com/ddev/ddev/pull/7567) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 🎉 Merged PR [#7565](https://github.com/ddev/ddev/pull/7565) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 🎉 Merged PR [#7564](https://github.com/ddev/ddev/pull/7564) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 🎉 Merged PR [#7566](https://github.com/ddev/ddev/pull/7566) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#7554](https://github.com/ddev/ddev/pull/7554#issuecomment-3222228435) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 💬 Commented on [#7553](https://github.com/ddev/ddev/pull/7553#issuecomment-3222205932) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#7553](https://github.com/ddev/ddev/pull/7553#issuecomment-3222199076) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#7560](https://github.com/ddev/ddev/pull/7560#issuecomment-3222182465) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 💬 Commented on [#7553](https://github.com/ddev/ddev/pull/7553#issuecomment-3222091375) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 🔴 Requested changes in [#7553](https://github.com/ddev/ddev/pull/7553#pullrequestreview-3153372262) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. ❗️ Opened issue [#1773](https://github.com/netz98/n98-magerun2/issues/1773) in [netz98/n98-magerun2](https://github.com/netz98/n98-magerun2)<br>
+1. 💬 Commented on [#7553](https://github.com/ddev/ddev/pull/7553#issuecomment-3260230921) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#7555](https://github.com/ddev/ddev/pull/7555#issuecomment-3260229071) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#7554](https://github.com/ddev/ddev/pull/7554#issuecomment-3260228428) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 💬 Commented on [#7558](https://github.com/ddev/ddev/pull/7558#issuecomment-3260228013) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#7572](https://github.com/ddev/ddev/pull/7572#issuecomment-3260227549) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💬 Commented on [#7584](https://github.com/ddev/ddev/pull/7584#issuecomment-3260226937) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#7587](https://github.com/ddev/ddev/pull/7587#issuecomment-3260226130) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 🎉 Merged PR [#7587](https://github.com/ddev/ddev/pull/7587) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#7586](https://github.com/ddev/ddev/pull/7586#issuecomment-3259716184) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#423](https://github.com/ddev/ddev.com/pull/423#issuecomment-3259677062) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+11. 💬 Commented on [#7587](https://github.com/ddev/ddev/pull/7587#issuecomment-3259650783) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#7592](https://github.com/ddev/ddev/issues/7592#issuecomment-3259617990) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#2](https://github.com/2ndkauboy/ddev-elasticvue/pull/2#issuecomment-3258899122) in [2ndkauboy/ddev-elasticvue](https://github.com/2ndkauboy/ddev-elasticvue)<br>
+14. 💬 Commented on [#71](https://github.com/ddev/ddev-solr/issues/71#issuecomment-3258792864) in [ddev/ddev-solr](https://github.com/ddev/ddev-solr)<br>
+15. ❗️ Opened issue [#7594](https://github.com/ddev/ddev/issues/7594) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#7587](https://github.com/ddev/ddev/pull/7587#discussion_r2325265213) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#7587](https://github.com/ddev/ddev/pull/7587#discussion_r2325261776) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#7587](https://github.com/ddev/ddev/pull/7587#discussion_r2325189199) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#7587](https://github.com/ddev/ddev/pull/7587#discussion_r2325155868) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#7587](https://github.com/ddev/ddev/pull/7587#discussion_r2325185638) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
