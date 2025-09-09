@@ -24,7 +24,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfay&layout=compact&theme=default&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rfay&theme=default&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rfay&theme=github&hide_border=true)
 
 ## 🌟 DDEV Impact
 
