@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#441](https://github.com/ddev/ddev.com/pull/441#discussion_r2404103198) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-2. 💬 Commented on [#7689](https://github.com/ddev/ddev/pull/7689#issuecomment-3368425242) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#7625](https://github.com/ddev/ddev/pull/7625#issuecomment-3368396916) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#441](https://github.com/ddev/ddev.com/pull/441#issuecomment-3368390440) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-5. 💬 Commented on [#441](https://github.com/ddev/ddev.com/pull/441#discussion_r2404075695) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-6. 💬 Commented on [#7555](https://github.com/ddev/ddev/pull/7555#issuecomment-3368386488) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. ✔️ Closed issue [#7683](https://github.com/ddev/ddev/issues/7683) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 🎉 Merged PR [#7685](https://github.com/ddev/ddev/pull/7685) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 🎉 Merged PR [#7684](https://github.com/ddev/ddev/pull/7684) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#7686](https://github.com/ddev/ddev/pull/7686#issuecomment-3368365804) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#7687](https://github.com/ddev/ddev/pull/7687#discussion_r2404058156) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#7687](https://github.com/ddev/ddev/pull/7687#discussion_r2404048277) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💬 Commented on [#7687](https://github.com/ddev/ddev/pull/7687#discussion_r2404056436) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#7687](https://github.com/ddev/ddev/pull/7687#discussion_r2404057389) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 🔴 Requested changes in [#7687](https://github.com/ddev/ddev/pull/7687#pullrequestreview-3301960749) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#7631](https://github.com/ddev/ddev/issues/7631#issuecomment-3368202162) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#65](https://github.com/ddev/ddev-solr/issues/65#issuecomment-3368165468) in [ddev/ddev-solr](https://github.com/ddev/ddev-solr)<br>
-18. 💪 Opened PR [#441](https://github.com/ddev/ddev.com/pull/441) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-19. 💬 Commented on [#69](https://github.com/ddev/ddev-solr/issues/69#issuecomment-3366089835) in [ddev/ddev-solr](https://github.com/ddev/ddev-solr)<br>
-20. 💬 Commented on [#69](https://github.com/ddev/ddev-solr/issues/69#issuecomment-3366061407) in [ddev/ddev-solr](https://github.com/ddev/ddev-solr)<br>
+1. 💬 Commented on [#7702](https://github.com/ddev/ddev/pull/7702#discussion_r2422587660) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#7702](https://github.com/ddev/ddev/pull/7702#discussion_r2422585301) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#446](https://github.com/ddev/ddev.com/pull/446#discussion_r2422002104) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+4. 💬 Commented on [#7631](https://github.com/ddev/ddev/issues/7631#issuecomment-3392192671) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#445](https://github.com/ddev/ddev.com/pull/445#issuecomment-3388988635) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+6. 💪 Opened PR [#446](https://github.com/ddev/ddev.com/pull/446) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+7. 💬 Commented on [#7625](https://github.com/ddev/ddev/pull/7625#discussion_r2418697369) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 📔 Created new repository [rfay/sury_missing_packages](https://github.com/rfay/sury_missing_packages)<br>
+9. 🎉 Merged PR [#7705](https://github.com/ddev/ddev/pull/7705) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#7702](https://github.com/ddev/ddev/pull/7702#issuecomment-3388119180) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 👍 Approved [#442](https://github.com/ddev/ddev.com/pull/442#pullrequestreview-3316261715) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+12. ❗️ Opened issue [#7](https://github.com/rfay/presentation-template/issues/7) in [rfay/presentation-template](https://github.com/rfay/presentation-template)<br>
+13. 💬 Commented on [#7702](https://github.com/ddev/ddev/pull/7702#issuecomment-3382767302) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#7669](https://github.com/ddev/ddev/issues/7669#issuecomment-3382735979) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. ✔️ Closed issue [#7669](https://github.com/ddev/ddev/issues/7669) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#7704](https://github.com/ddev/ddev/issues/7704#issuecomment-3382733219) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. ✔️ Closed issue [#5](https://github.com/rfay/presentation-template/issues/5) in [rfay/presentation-template](https://github.com/rfay/presentation-template)<br>
+18. 🎉 Merged PR [#6](https://github.com/rfay/presentation-template/pull/6) in [rfay/presentation-template](https://github.com/rfay/presentation-template)<br>
+19. ❗️ Opened issue [#5](https://github.com/rfay/presentation-template/issues/5) in [rfay/presentation-template](https://github.com/rfay/presentation-template)<br>
+20. ✔️ Closed issue [#3](https://github.com/rfay/presentation-template/issues/3) in [rfay/presentation-template](https://github.com/rfay/presentation-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
