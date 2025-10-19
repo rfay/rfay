@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7702](https://github.com/ddev/ddev/pull/7702#discussion_r2422587660) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#7702](https://github.com/ddev/ddev/pull/7702#discussion_r2422585301) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#446](https://github.com/ddev/ddev.com/pull/446#discussion_r2422002104) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-4. 💬 Commented on [#7631](https://github.com/ddev/ddev/issues/7631#issuecomment-3392192671) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#445](https://github.com/ddev/ddev.com/pull/445#issuecomment-3388988635) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-6. 💪 Opened PR [#446](https://github.com/ddev/ddev.com/pull/446) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-7. 💬 Commented on [#7625](https://github.com/ddev/ddev/pull/7625#discussion_r2418697369) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 📔 Created new repository [rfay/sury_missing_packages](https://github.com/rfay/sury_missing_packages)<br>
-9. 🎉 Merged PR [#7705](https://github.com/ddev/ddev/pull/7705) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#7702](https://github.com/ddev/ddev/pull/7702#issuecomment-3388119180) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 👍 Approved [#442](https://github.com/ddev/ddev.com/pull/442#pullrequestreview-3316261715) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-12. ❗️ Opened issue [#7](https://github.com/rfay/presentation-template/issues/7) in [rfay/presentation-template](https://github.com/rfay/presentation-template)<br>
-13. 💬 Commented on [#7702](https://github.com/ddev/ddev/pull/7702#issuecomment-3382767302) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#7669](https://github.com/ddev/ddev/issues/7669#issuecomment-3382735979) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. ✔️ Closed issue [#7669](https://github.com/ddev/ddev/issues/7669) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#7704](https://github.com/ddev/ddev/issues/7704#issuecomment-3382733219) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. ✔️ Closed issue [#5](https://github.com/rfay/presentation-template/issues/5) in [rfay/presentation-template](https://github.com/rfay/presentation-template)<br>
-18. 🎉 Merged PR [#6](https://github.com/rfay/presentation-template/pull/6) in [rfay/presentation-template](https://github.com/rfay/presentation-template)<br>
-19. ❗️ Opened issue [#5](https://github.com/rfay/presentation-template/issues/5) in [rfay/presentation-template](https://github.com/rfay/presentation-template)<br>
-20. ✔️ Closed issue [#3](https://github.com/rfay/presentation-template/issues/3) in [rfay/presentation-template](https://github.com/rfay/presentation-template)<br>
+1. 💬 Commented on [#45](https://github.com/ddev/ddev-adminer/issues/45#issuecomment-3418637991) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+2. 💬 Commented on [#7710](https://github.com/ddev/ddev/issues/7710#issuecomment-3418582232) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 👍 Approved [#7712](https://github.com/ddev/ddev/pull/7712#pullrequestreview-3353628538) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 👍 Approved [#7713](https://github.com/ddev/ddev/pull/7713#pullrequestreview-3353051162) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 👍 Approved [#7717](https://github.com/ddev/ddev/pull/7717#pullrequestreview-3352931446) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💪 Opened PR [#6](undefined) in [ddev/ddev-php85](https://github.com/ddev/ddev-php85)<br>
+7. ❗️ Opened issue [#3](https://github.com/atj4me/ddev-nodejs-starter/issues/3) in [atj4me/ddev-nodejs-starter](https://github.com/atj4me/ddev-nodejs-starter)<br>
+8. 💬 Commented on [#7718](https://github.com/ddev/ddev/issues/7718#issuecomment-3417992076) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#7707](https://github.com/ddev/ddev/issues/7707#issuecomment-3416620614) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#7707](https://github.com/ddev/ddev/issues/7707#issuecomment-3415599044) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#7290](https://github.com/ddev/ddev/pull/7290#discussion_r2438860124) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#7709](https://github.com/ddev/ddev/issues/7709#issuecomment-3414253080) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💪 Opened PR [#7716](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#6](https://github.com/b13/ddev-stirling-pdf/issues/6#issuecomment-3410454284) in [b13/ddev-stirling-pdf](https://github.com/b13/ddev-stirling-pdf)<br>
+15. ❗️ Opened issue [#7715](https://github.com/ddev/ddev/issues/7715) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. ❗️ Opened issue [#7714](https://github.com/ddev/ddev/issues/7714) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#6441](https://github.com/ddev/ddev/issues/6441#issuecomment-3407946420) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. ❗️ Opened issue [#1](https://github.com/davo20019/ddev-share-cf/issues/1) in [davo20019/ddev-share-cf](https://github.com/davo20019/ddev-share-cf)<br>
+19. ❗️ Opened issue [#15](https://github.com/ddev/ddev-upsun/issues/15) in [ddev/ddev-upsun](https://github.com/ddev/ddev-upsun)<br>
+20. 💬 Commented on [#4](https://github.com/envsa/ddev-pnpm/issues/4#issuecomment-3406060637) in [envsa/ddev-pnpm](https://github.com/envsa/ddev-pnpm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
