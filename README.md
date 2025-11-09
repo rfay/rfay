@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#7773](https://github.com/ddev/ddev/issues/7773) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#7773](https://github.com/ddev/ddev/issues/7773#issuecomment-3475320172) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#7773](https://github.com/ddev/ddev/issues/7773#issuecomment-3475262286) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#7773](https://github.com/ddev/ddev/issues/7773#issuecomment-3475236802) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#7773](https://github.com/ddev/ddev/issues/7773#issuecomment-3475234437) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💬 Commented on [#7749](https://github.com/ddev/ddev/pull/7749#issuecomment-3474805627) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#7768](https://github.com/ddev/ddev/pull/7768#issuecomment-3474652348) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. ❗️ Opened issue [#142](https://github.com/ddev/ddev-platformsh/issues/142) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
-9. 💬 Commented on [#7768](https://github.com/ddev/ddev/pull/7768#issuecomment-3474616592) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#7777](https://github.com/ddev/ddev/pull/7777#issuecomment-3474446703) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#7724](https://github.com/ddev/ddev/pull/7724#issuecomment-3473997483) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#7777](https://github.com/ddev/ddev/pull/7777#issuecomment-3473990106) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 👍 Approved [#7766](https://github.com/ddev/ddev/pull/7766#pullrequestreview-3405176024) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#4962](https://github.com/ddev/ddev/issues/4962#issuecomment-3473769536) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 💬 Commented on [#7775](https://github.com/ddev/ddev/issues/7775#issuecomment-3473488851) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. ❗️ Opened issue [#7776](https://github.com/ddev/ddev/issues/7776) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#7760](https://github.com/ddev/ddev/issues/7760#issuecomment-3473451523) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 💬 Commented on [#7775](https://github.com/ddev/ddev/issues/7775#issuecomment-3473293354) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💬 Commented on [#7773](https://github.com/ddev/ddev/issues/7773#issuecomment-3473276277) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 👍 Approved [#7774](https://github.com/ddev/ddev/pull/7774#pullrequestreview-3404248852) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#7814](https://github.com/ddev/ddev/pull/7814#issuecomment-3506668541) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#7811](https://github.com/ddev/ddev/pull/7811#issuecomment-3506665609) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#7814](https://github.com/ddev/ddev/pull/7814#issuecomment-3506660435) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ❗️ Opened issue [#7812](https://github.com/ddev/ddev/issues/7812) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. ❗️ Opened issue [#7810](https://github.com/ddev/ddev/issues/7810) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ❗️ Opened issue [#7808](https://github.com/ddev/ddev/issues/7808) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#7718](https://github.com/ddev/ddev/issues/7718#issuecomment-3506641206) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. ✔️ Closed issue [#7718](https://github.com/ddev/ddev/issues/7718) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. ❗️ Opened issue [#2](https://github.com/TYPO3-Documentation/ddev-typo3-docs/issues/2) in [TYPO3-Documentation/ddev-typo3-docs](https://github.com/TYPO3-Documentation/ddev-typo3-docs)<br>
+10. 🔱 Forked [rfay/ddev-typo3-docs](https://github.com/rfay/ddev-typo3-docs) from [rfay/ddev-typo3-docs](https://github.com/rfay/ddev-typo3-docs)<br>
+11. ❗️ Opened issue [#1](https://github.com/TYPO3-Documentation/ddev-typo3-docs/issues/1) in [TYPO3-Documentation/ddev-typo3-docs](https://github.com/TYPO3-Documentation/ddev-typo3-docs)<br>
+12. 💬 Commented on [#73](https://github.com/ddev/ddev-solr/pull/73#issuecomment-3506143259) in [ddev/ddev-solr](https://github.com/ddev/ddev-solr)<br>
+13. 💬 Commented on [#7807](https://github.com/ddev/ddev/issues/7807#issuecomment-3503485095) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. ✔️ Closed issue [#7807](https://github.com/ddev/ddev/issues/7807) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. ❗️ Opened issue [#28](https://github.com/ddev/ddev-gitlab-ci/issues/28) in [ddev/ddev-gitlab-ci](https://github.com/ddev/ddev-gitlab-ci)<br>
+16. 💬 Commented on [#73](https://github.com/ddev/ddev-solr/pull/73#issuecomment-3502379452) in [ddev/ddev-solr](https://github.com/ddev/ddev-solr)<br>
+17. 💪 Opened PR [#73](undefined) in [ddev/ddev-solr](https://github.com/ddev/ddev-solr)<br>
+18. ✌️ Released [](https://github.com/rfay/ddev-acme-custom-commands/releases/tag/v0.0.2) in [rfay/ddev-acme-custom-commands](https://github.com/rfay/ddev-acme-custom-commands)<br>
+19. ✌️ Released [](https://github.com/rfay/ddev-acme-custom-commands/releases/tag/v0.0.1) in [rfay/ddev-acme-custom-commands](https://github.com/rfay/ddev-acme-custom-commands)<br>
+20. 💬 Commented on [#7807](https://github.com/ddev/ddev/issues/7807#issuecomment-3501109157) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
