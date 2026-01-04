@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4496](https://github.com/lima-vm/lima/issues/4496#issuecomment-3694286965) in [lima-vm/lima](https://github.com/lima-vm/lima)<br>
-2. 💪 Opened PR [#7986](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. ✔️ Closed issue [#7966](https://github.com/ddev/ddev/issues/7966) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💪 Opened PR [#7985](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💪 Opened PR [#7984](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💬 Commented on [#7981](https://github.com/ddev/ddev/pull/7981#issuecomment-3694223771) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💪 Opened PR [#7983](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 💬 Commented on [#7981](https://github.com/ddev/ddev/pull/7981#issuecomment-3694156171) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💬 Commented on [#4496](https://github.com/lima-vm/lima/issues/4496#issuecomment-3694149333) in [lima-vm/lima](https://github.com/lima-vm/lima)<br>
-10. 👍 Approved [#7981](https://github.com/ddev/ddev/pull/7981#pullrequestreview-3614393572) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#7981](https://github.com/ddev/ddev/pull/7981#issuecomment-3694124625) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#7981](https://github.com/ddev/ddev/pull/7981#issuecomment-3694122743) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💬 Commented on [#7981](https://github.com/ddev/ddev/pull/7981#issuecomment-3694118465) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#7981](https://github.com/ddev/ddev/pull/7981#issuecomment-3694110382) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 💪 Opened PR [#7982](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#1465](https://github.com/ddev/ddev/issues/1465#issuecomment-3694073927) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#7967](https://github.com/ddev/ddev/pull/7967#issuecomment-3694064340) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 💬 Commented on [#7967](https://github.com/ddev/ddev/pull/7967#issuecomment-3694048844) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💬 Commented on [#7942](https://github.com/ddev/ddev/pull/7942#issuecomment-3694013992) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💬 Commented on [#4496](https://github.com/lima-vm/lima/issues/4496#issuecomment-3693536780) in [lima-vm/lima](https://github.com/lima-vm/lima)<br>
+1. 💬 Commented on [#8004](https://github.com/ddev/ddev/pull/8004#issuecomment-3707406137) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#8004](https://github.com/ddev/ddev/pull/8004#issuecomment-3707402886) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#8004](https://github.com/ddev/ddev/pull/8004#issuecomment-3707399485) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ❗️ Opened issue [#8003](https://github.com/ddev/ddev/issues/8003) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#4496](https://github.com/lima-vm/lima/issues/4496#issuecomment-3707301981) in [lima-vm/lima](https://github.com/lima-vm/lima)<br>
+6. 💬 Commented on [#7992](https://github.com/ddev/ddev/pull/7992#issuecomment-3707291172) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#32](https://github.com/ddev/vscode-ddev-manager/issues/32#issuecomment-3707218829) in [ddev/vscode-ddev-manager](https://github.com/ddev/vscode-ddev-manager)<br>
+8. 👍 Approved [#7992](https://github.com/ddev/ddev/pull/7992#pullrequestreview-3624036571) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#7997](https://github.com/ddev/ddev/issues/7997#issuecomment-3705969764) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 👍 Approved [#7999](https://github.com/ddev/ddev/pull/7999#pullrequestreview-3623588240) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#8001](https://github.com/ddev/ddev/pull/8001#issuecomment-3705854698) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. ✔️ Closed issue [#7740](https://github.com/ddev/ddev/issues/7740) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#4496](https://github.com/lima-vm/lima/issues/4496#issuecomment-3705714450) in [lima-vm/lima](https://github.com/lima-vm/lima)<br>
+14. 💬 Commented on [#7988](https://github.com/ddev/ddev/pull/7988#issuecomment-3705304698) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💬 Commented on [#8000](https://github.com/ddev/ddev/issues/8000#issuecomment-3705271528) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#7981](https://github.com/ddev/ddev/pull/7981#discussion_r2657668010) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 👍 Approved [#504](https://github.com/ddev/ddev.com/pull/504#pullrequestreview-3623037530) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+18. 💬 Commented on [#7992](https://github.com/ddev/ddev/pull/7992#issuecomment-3703144092) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. ❗️ Opened issue [#7998](https://github.com/ddev/ddev/issues/7998) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#7997](https://github.com/ddev/ddev/issues/7997#issuecomment-3703069914) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
