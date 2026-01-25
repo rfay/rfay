@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#407](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow/pull/407#issuecomment-3763961649) in [TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow)<br>
-2. 💬 Commented on [#8038](https://github.com/ddev/ddev/issues/8038#issuecomment-3763954682) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. ✔️ Closed issue [#8024](https://github.com/ddev/ddev/issues/8024) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#521](https://github.com/ddev/ddev-intellij-plugin/issues/521#issuecomment-3760047856) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
-5. 💬 Commented on [#8037](https://github.com/ddev/ddev/pull/8037#issuecomment-3757696425) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ✔️ Closed issue [#8029](https://github.com/ddev/ddev/issues/8029) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#8027](https://github.com/ddev/ddev/pull/8027#discussion_r2696142853) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 💬 Commented on [#4](https://github.com/christianwiedemann/coder-ddev/issues/4#issuecomment-3756923449) in [christianwiedemann/coder-ddev](https://github.com/christianwiedemann/coder-ddev)<br>
-9. 💬 Commented on [#4](https://github.com/christianwiedemann/coder-ddev/issues/4#issuecomment-3756904556) in [christianwiedemann/coder-ddev](https://github.com/christianwiedemann/coder-ddev)<br>
-10. ❗️ Opened issue [#4](https://github.com/christianwiedemann/coder-ddev/issues/4) in [christianwiedemann/coder-ddev](https://github.com/christianwiedemann/coder-ddev)<br>
-11. 💬 Commented on [#3](https://github.com/christianwiedemann/coder-ddev/issues/3#issuecomment-3756823272) in [christianwiedemann/coder-ddev](https://github.com/christianwiedemann/coder-ddev)<br>
-12. 💬 Commented on [#3](https://github.com/christianwiedemann/coder-ddev/issues/3#issuecomment-3756790533) in [christianwiedemann/coder-ddev](https://github.com/christianwiedemann/coder-ddev)<br>
-13. ❗️ Opened issue [#3](https://github.com/christianwiedemann/coder-ddev/issues/3) in [christianwiedemann/coder-ddev](https://github.com/christianwiedemann/coder-ddev)<br>
-14. ❗️ Opened issue [#2](https://github.com/christianwiedemann/coder-ddev/issues/2) in [christianwiedemann/coder-ddev](https://github.com/christianwiedemann/coder-ddev)<br>
-15. 👍 Approved [#8030](https://github.com/ddev/ddev/pull/8030#pullrequestreview-3666810113) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#8030](https://github.com/ddev/ddev/pull/8030#issuecomment-3756083058) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 👍 Approved [#8037](https://github.com/ddev/ddev/pull/8037#pullrequestreview-3666729368) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 💬 Commented on [#8038](https://github.com/ddev/ddev/issues/8038#issuecomment-3755960889) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💬 Commented on [#8037](https://github.com/ddev/ddev/pull/8037#issuecomment-3755922609) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 🔴 Requested changes in [#8037](https://github.com/ddev/ddev/pull/8037#pullrequestreview-3666612742) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#7991](https://github.com/ddev/ddev/pull/7991#issuecomment-3795315161) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#7991](https://github.com/ddev/ddev/pull/7991#issuecomment-3795284809) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 👍 Approved [#7978](https://github.com/ddev/ddev/pull/7978#pullrequestreview-3702285153) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ❗️ Opened issue [#2](https://github.com/Farkie/ddev-redis-insight/issues/2) in [Farkie/ddev-redis-insight](https://github.com/Farkie/ddev-redis-insight)<br>
+5. 👍 Approved [#8051](https://github.com/ddev/ddev/pull/8051#pullrequestreview-3702122753) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💬 Commented on [#4496](https://github.com/lima-vm/lima/issues/4496#issuecomment-3793366795) in [lima-vm/lima](https://github.com/lima-vm/lima)<br>
+7. 💬 Commented on [#4496](https://github.com/lima-vm/lima/issues/4496#issuecomment-3793273028) in [lima-vm/lima](https://github.com/lima-vm/lima)<br>
+8. 💬 Commented on [#8054](https://github.com/ddev/ddev/issues/8054#issuecomment-3792952271) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#8054](https://github.com/ddev/ddev/issues/8054#issuecomment-3792920329) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#8054](https://github.com/ddev/ddev/issues/8054#issuecomment-3792898099) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#4496](https://github.com/lima-vm/lima/issues/4496#issuecomment-3792867713) in [lima-vm/lima](https://github.com/lima-vm/lima)<br>
+12. 💬 Commented on [#8054](https://github.com/ddev/ddev/issues/8054#issuecomment-3792790906) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#8054](https://github.com/ddev/ddev/issues/8054#issuecomment-3792786436) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#8054](https://github.com/ddev/ddev/issues/8054#issuecomment-3792691961) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💬 Commented on [#8054](https://github.com/ddev/ddev/issues/8054#issuecomment-3792568043) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#8054](https://github.com/ddev/ddev/issues/8054#issuecomment-3792539637) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#8054](https://github.com/ddev/ddev/issues/8054#issuecomment-3792456308) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#8053](https://github.com/ddev/ddev/pull/8053#issuecomment-3792063599) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. ❌ Closed PR [#8053](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#522](https://github.com/ddev/ddev-intellij-plugin/issues/522#issuecomment-3792045068) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
