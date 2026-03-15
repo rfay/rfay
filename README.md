@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#43](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-2. 💬 Commented on [#71](https://github.com/ddev/ddev-solr/issues/71#issuecomment-4017603098) in [ddev/ddev-solr](https://github.com/ddev/ddev-solr)<br>
-3. 💪 Opened PR [#41](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-4. 💪 Opened PR [#40](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-5. 💬 Commented on [#41](https://github.com/joachim-n/drupal-core-development-project/issues/41#issuecomment-4017332156) in [joachim-n/drupal-core-development-project](https://github.com/joachim-n/drupal-core-development-project)<br>
-6. ✔️ Closed issue [#38](https://github.com/ddev/coder-ddev/issues/38) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-7. 💪 Opened PR [#39](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-8. 💪 Opened PR [#36](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-9. 💪 Opened PR [#35](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-10. 💬 Commented on [#42](https://github.com/joachim-n/drupal-core-development-project/issues/42#issuecomment-4016944879) in [joachim-n/drupal-core-development-project](https://github.com/joachim-n/drupal-core-development-project)<br>
-11. 💪 Opened PR [#34](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-12. 💬 Commented on [#41](https://github.com/joachim-n/drupal-core-development-project/issues/41#issuecomment-4016932274) in [joachim-n/drupal-core-development-project](https://github.com/joachim-n/drupal-core-development-project)<br>
-13. 💬 Commented on [#41](https://github.com/joachim-n/drupal-core-development-project/issues/41#issuecomment-4016771065) in [joachim-n/drupal-core-development-project](https://github.com/joachim-n/drupal-core-development-project)<br>
-14. 💬 Commented on [#41](https://github.com/joachim-n/drupal-core-development-project/issues/41#issuecomment-4016758997) in [joachim-n/drupal-core-development-project](https://github.com/joachim-n/drupal-core-development-project)<br>
-15. ❗️ Opened issue [#42](https://github.com/joachim-n/drupal-core-development-project/issues/42) in [joachim-n/drupal-core-development-project](https://github.com/joachim-n/drupal-core-development-project)<br>
-16. 💬 Commented on [#8189](https://github.com/ddev/ddev/issues/8189#issuecomment-4016663748) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#41](https://github.com/joachim-n/drupal-core-development-project/issues/41#issuecomment-4016656568) in [joachim-n/drupal-core-development-project](https://github.com/joachim-n/drupal-core-development-project)<br>
-18. 💪 Opened PR [#33](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-19. 💪 Opened PR [#32](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-20. 💬 Commented on [#41](https://github.com/joachim-n/drupal-core-development-project/issues/41#issuecomment-4014244431) in [joachim-n/drupal-core-development-project](https://github.com/joachim-n/drupal-core-development-project)<br>
+1. 💬 Commented on [#8223](https://github.com/ddev/ddev/issues/8223#issuecomment-4048105475) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#8222](https://github.com/ddev/ddev/pull/8222#issuecomment-4047518334) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#8222](https://github.com/ddev/ddev/pull/8222#issuecomment-4047515978) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ❗️ Opened issue [#8224](https://github.com/ddev/ddev/issues/8224) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#8223](https://github.com/ddev/ddev/issues/8223#issuecomment-4047345710) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💬 Commented on [#7765](https://github.com/ddev/ddev/pull/7765#issuecomment-4047320775) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#8222](https://github.com/ddev/ddev/pull/8222#issuecomment-4047315462) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#25](https://github.com/ddev/ddev-upsun/issues/25#issuecomment-4047295803) in [ddev/ddev-upsun](https://github.com/ddev/ddev-upsun)<br>
+9. 💬 Commented on [#8189](https://github.com/ddev/ddev/issues/8189#issuecomment-4047251448) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#8195](https://github.com/ddev/ddev/pull/8195#issuecomment-4042745664) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#8195](https://github.com/ddev/ddev/pull/8195#issuecomment-4042744175) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#8195](https://github.com/ddev/ddev/pull/8195#issuecomment-4042598051) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#8195](https://github.com/ddev/ddev/pull/8195#issuecomment-4042531856) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#8195](https://github.com/ddev/ddev/pull/8195#issuecomment-4041975016) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💬 Commented on [#8198](https://github.com/ddev/ddev/pull/8198#issuecomment-4041913225) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#8198](https://github.com/ddev/ddev/pull/8198#issuecomment-4041890433) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 👍 Approved [#8185](https://github.com/ddev/ddev/pull/8185#pullrequestreview-3932115044) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#8213](https://github.com/ddev/ddev/pull/8213#issuecomment-4041502989) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. ❗️ Opened issue [#59](https://github.com/ddev/coder-ddev/issues/59) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
+20. ❗️ Opened issue [#58](https://github.com/ddev/coder-ddev/issues/58) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
