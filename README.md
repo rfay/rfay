@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8426](https://github.com/ddev/ddev/pull/8426#issuecomment-4577049689) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#159](https://github.com/ddev/coder-ddev/issues/159#issuecomment-4553427704) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-3. 💪 Opened PR [#1](undefined) in [ddev/commit-message-checker](https://github.com/ddev/commit-message-checker)<br>
-4. 💬 Commented on [#8405](https://github.com/ddev/ddev/pull/8405#issuecomment-4536730265) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#8379](https://github.com/ddev/ddev/pull/8379#issuecomment-4536724671) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💬 Commented on [#8426](https://github.com/ddev/ddev/pull/8426#issuecomment-4536715171) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#647](https://github.com/ddev/ddev.com/issues/647#issuecomment-4536671137) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-8. 💪 Opened PR [#1](undefined) in [rfay/nanoclaw](https://github.com/rfay/nanoclaw)<br>
-9. 💬 Commented on [#110](https://github.com/GsActions/commit-message-checker/issues/110#issuecomment-4534233396) in [GsActions/commit-message-checker](https://github.com/GsActions/commit-message-checker)<br>
-10. 🔱 Forked [rfay/nanoclaw](https://github.com/rfay/nanoclaw) from [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw)<br>
-11. 💬 Commented on [#8426](https://github.com/ddev/ddev/pull/8426#issuecomment-4529896176) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#8425](https://github.com/ddev/ddev/pull/8425#discussion_r3294008972) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💬 Commented on [#160](https://github.com/ddev/coder-ddev/pull/160#issuecomment-4519468508) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-14. 💪 Opened PR [#35](undefined) in [ddev/sponsorship-data](https://github.com/ddev/sponsorship-data)<br>
-15. 👍 Approved [#8424](https://github.com/ddev/ddev/pull/8424#pullrequestreview-4345178911) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#8421](https://github.com/ddev/ddev/pull/8421#issuecomment-4518051274) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#8422](https://github.com/ddev/ddev/pull/8422#issuecomment-4516078688) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. ❌ Closed PR [#8422](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💬 Commented on [#8421](https://github.com/ddev/ddev/pull/8421#issuecomment-4515875963) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💬 Commented on [#6444](https://github.com/ddev/ddev/issues/6444#issuecomment-4515868944) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#2503](https://github.com/orbstack/orbstack/issues/2503#issuecomment-4623586031) in [orbstack/orbstack](https://github.com/orbstack/orbstack)<br>
+2. 💬 Commented on [#2503](https://github.com/orbstack/orbstack/issues/2503#issuecomment-4623493838) in [orbstack/orbstack](https://github.com/orbstack/orbstack)<br>
+3. 💬 Commented on [#42](https://github.com/ddev/sponsorship-data/pull/42#discussion_r3349782952) in [ddev/sponsorship-data](https://github.com/ddev/sponsorship-data)<br>
+4. 💬 Commented on [#8446](https://github.com/ddev/ddev/pull/8446#discussion_r3349761418) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 🔴 Requested changes in [#42](https://github.com/ddev/sponsorship-data/pull/42#pullrequestreview-4420068314) in [ddev/sponsorship-data](https://github.com/ddev/sponsorship-data)<br>
+6. 💬 Commented on [#8439](https://github.com/ddev/ddev/issues/8439#issuecomment-4614040201) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 👍 Approved [#8446](https://github.com/ddev/ddev/pull/8446#pullrequestreview-4420044311) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#8364](https://github.com/ddev/ddev/issues/8364#issuecomment-4613967658) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#8443](https://github.com/ddev/ddev/pull/8443#issuecomment-4604123188) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#8439](https://github.com/ddev/ddev/issues/8439#issuecomment-4596024441) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#8439](https://github.com/ddev/ddev/issues/8439#issuecomment-4595974349) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#8442](https://github.com/ddev/ddev/issues/8442#issuecomment-4595965160) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#8444](https://github.com/ddev/ddev/issues/8444#issuecomment-4595954639) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#8439](https://github.com/ddev/ddev/issues/8439#issuecomment-4589605509) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💬 Commented on [#6145](https://github.com/ddev/ddev/issues/6145#issuecomment-4586847644) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 👍 Approved [#8438](https://github.com/ddev/ddev/pull/8438#pullrequestreview-4396912871) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#42](https://github.com/ddev/sponsorship-data/pull/42#issuecomment-4586782702) in [ddev/sponsorship-data](https://github.com/ddev/sponsorship-data)<br>
+18. 💬 Commented on [#8426](https://github.com/ddev/ddev/pull/8426#issuecomment-4577049689) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#159](https://github.com/ddev/coder-ddev/issues/159#issuecomment-4553427704) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
+20. 💪 Opened PR [#1](undefined) in [ddev/commit-message-checker](https://github.com/ddev/commit-message-checker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
