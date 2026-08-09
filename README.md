@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#8574](https://github.com/ddev/ddev/issues/8574) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ✔️ Closed issue [#8640](https://github.com/ddev/ddev/issues/8640) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#8617](https://github.com/ddev/ddev/issues/8617#issuecomment-5153836743) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💪 Opened PR [#8650](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#8617](https://github.com/ddev/ddev/issues/8617#issuecomment-5153374771) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ❌ Closed PR [#8644](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#8644](https://github.com/ddev/ddev/pull/8644#issuecomment-5153312885) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 💪 Opened PR [#8649](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💪 Opened PR [#8648](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#8638](https://github.com/ddev/ddev/pull/8638#issuecomment-5153070849) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#8608](https://github.com/ddev/ddev/pull/8608#issuecomment-5152894683) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#8644](https://github.com/ddev/ddev/pull/8644#issuecomment-5152752007) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💬 Commented on [#8643](https://github.com/ddev/ddev/pull/8643#issuecomment-5152674586) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💪 Opened PR [#8647](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 💬 Commented on [#8574](https://github.com/ddev/ddev/issues/8574#issuecomment-5152251921) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#8640](https://github.com/ddev/ddev/issues/8640#issuecomment-5152250344) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💪 Opened PR [#1](undefined) in [rfay/database-performance](https://github.com/rfay/database-performance)<br>
-18. 💬 Commented on [#8560](https://github.com/ddev/ddev/pull/8560#issuecomment-5151990583) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💬 Commented on [#8617](https://github.com/ddev/ddev/issues/8617#issuecomment-5151669890) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💬 Commented on [#8617](https://github.com/ddev/ddev/issues/8617#issuecomment-5151552051) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#8680](https://github.com/ddev/ddev/pull/8680#issuecomment-5228940765) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#8680](https://github.com/ddev/ddev/pull/8680#issuecomment-5228939059) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#8680](https://github.com/ddev/ddev/pull/8680#issuecomment-5228927509) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 💬 Commented on [#8623](https://github.com/ddev/ddev/pull/8623#issuecomment-5227402800) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#8679](https://github.com/ddev/ddev/issues/8679#issuecomment-5227398567) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💬 Commented on [#8679](https://github.com/ddev/ddev/issues/8679#issuecomment-5227384754) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#8676](https://github.com/ddev/ddev/pull/8676#issuecomment-5226263456) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💪 Opened PR [#197](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
+9. 💬 Commented on [#8520](https://github.com/ddev/ddev/issues/8520#issuecomment-5223811131) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💪 Opened PR [#8677](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💪 Opened PR [#196](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
+12. 💪 Opened PR [#8676](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💪 Opened PR [#8675](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 👍 Approved [#8674](https://github.com/ddev/ddev/pull/8674#pullrequestreview-4887107726) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. ❗️ Opened issue [#15](https://github.com/rfay/socktainer/issues/15) in [rfay/socktainer](https://github.com/rfay/socktainer)<br>
+16. 💪 Opened PR [#8673](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#6174](https://github.com/ddev/ddev/issues/6174#issuecomment-5219647457) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. ❌ Closed PR [#194](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
+19. 💬 Commented on [#6174](https://github.com/ddev/ddev/issues/6174#issuecomment-5210022787) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 👍 Approved [#8669](https://github.com/ddev/ddev/pull/8669#pullrequestreview-4878591880) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
