@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#10274](https://github.com/contao/contao/issues/10274) in [contao/contao](https://github.com/contao/contao)<br>
-2. ✔️ Closed issue [#211](https://github.com/ddev/coder-ddev/issues/211) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-3. ❗️ Opened issue [#216](https://github.com/ddev/coder-ddev/issues/216) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-4. 💪 Opened PR [#215](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-5. 💬 Commented on [#211](https://github.com/ddev/coder-ddev/issues/211#issuecomment-5851000087) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-6. ❗️ Opened issue [#214](https://github.com/ddev/coder-ddev/issues/214) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-7. ❗️ Opened issue [#213](https://github.com/ddev/coder-ddev/issues/213) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-8. 💪 Opened PR [#212](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-9. 💬 Commented on [#8842](https://github.com/ddev/ddev/issues/8842#issuecomment-5837092560) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#8864](https://github.com/ddev/ddev/pull/8864#discussion_r4106898867) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#8858](https://github.com/ddev/ddev/pull/8858#issuecomment-5836405649) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. ❌ Closed PR [#8858](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💬 Commented on [#8840](https://github.com/ddev/ddev/pull/8840#issuecomment-5836397968) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. ❌ Closed PR [#8840](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 👍 Approved [#8864](https://github.com/ddev/ddev/pull/8864#pullrequestreview-5320461284) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#8826](https://github.com/ddev/ddev/pull/8826#issuecomment-5836328476) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#8863](https://github.com/ddev/ddev/pull/8863#issuecomment-5835759548) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 💬 Commented on [#8863](https://github.com/ddev/ddev/pull/8863#issuecomment-5835599200) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💪 Opened PR [#8863](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💬 Commented on [#8859](https://github.com/ddev/ddev/pull/8859#issuecomment-5835396122) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💪 Opened PR [#8899](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#8885](https://github.com/ddev/ddev/pull/8885#issuecomment-5961941015) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#8887](https://github.com/ddev/ddev/pull/8887#issuecomment-5959439927) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ✔️ Closed issue [#8817](https://github.com/ddev/ddev/issues/8817) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#8887](https://github.com/ddev/ddev/pull/8887#issuecomment-5958987410) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ❗️ Opened issue [#8898](https://github.com/ddev/ddev/issues/8898) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💪 Opened PR [#8897](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💪 Opened PR [#8896](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 👍 Approved [#8894](https://github.com/ddev/ddev/pull/8894#pullrequestreview-5394271856) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#8893](https://github.com/ddev/ddev/pull/8893#issuecomment-5956099233) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 🔴 Requested changes in [#8894](https://github.com/ddev/ddev/pull/8894#pullrequestreview-5393510291) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#8894](https://github.com/ddev/ddev/pull/8894#discussion_r4167214516) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#8894](https://github.com/ddev/ddev/pull/8894#discussion_r4167187112) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#8894](https://github.com/ddev/ddev/pull/8894#discussion_r4167174054) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💬 Commented on [#8894](https://github.com/ddev/ddev/pull/8894#discussion_r4167164906) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#8894](https://github.com/ddev/ddev/pull/8894#discussion_r4167144268) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#8894](https://github.com/ddev/ddev/pull/8894#discussion_r4167125101) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#8894](https://github.com/ddev/ddev/pull/8894#discussion_r4167108387) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#8894](https://github.com/ddev/ddev/pull/8894#discussion_r4167105433) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#8894](https://github.com/ddev/ddev/pull/8894#discussion_r4167100585) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
