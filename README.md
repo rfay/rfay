@@ -13,26 +13,26 @@ My name is Randy Fay.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8947](https://github.com/ddev/ddev/pull/8947#issuecomment-6243223553) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💪 Opened PR [#221](undefined) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-3. 💬 Commented on [#220](https://github.com/ddev/coder-ddev/issues/220#issuecomment-6237589833) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-4. 🔴 Requested changes in [#95](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/95#pullrequestreview-5558979548) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-5. 💬 Commented on [#98](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/98#issuecomment-6237227120) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-6. 💪 Opened PR [#8963](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💪 Opened PR [#8962](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. ✌️ Released [New files.tar.gz with less stuff](https://github.com/rfay/hobobiker-assets/releases/tag/v1.1) in [rfay/hobobiker-assets](https://github.com/rfay/hobobiker-assets)<br>
-9. ❗️ Opened issue [#8961](https://github.com/ddev/ddev/issues/8961) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. ❗️ Opened issue [#220](https://github.com/ddev/coder-ddev/issues/220) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-11. ✔️ Closed issue [#8777](https://github.com/ddev/ddev/issues/8777) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#6](https://github.com/ddev/ddev-nvm/issues/6#issuecomment-6204262271) in [ddev/ddev-nvm](https://github.com/ddev/ddev-nvm)<br>
-13. 💬 Commented on [#8925](https://github.com/ddev/ddev/issues/8925#issuecomment-6202920860) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#6](https://github.com/ddev/ddev-nvm/issues/6#issuecomment-6205050218) in [ddev/ddev-nvm](https://github.com/ddev/ddev-nvm)<br>
-15. 💬 Commented on [#6](https://github.com/ddev/ddev-nvm/issues/6#issuecomment-6205011053) in [ddev/ddev-nvm](https://github.com/ddev/ddev-nvm)<br>
-16. 💬 Commented on [#6](https://github.com/ddev/ddev-nvm/issues/6#issuecomment-6203979936) in [ddev/ddev-nvm](https://github.com/ddev/ddev-nvm)<br>
-17. ❗️ Opened issue [#184](https://github.com/Lullabot/ddev-playwright/issues/184) in [Lullabot/ddev-playwright](https://github.com/Lullabot/ddev-playwright)<br>
-18. 💬 Commented on [#7460](https://github.com/ddev/ddev/issues/7460#issuecomment-6195009046) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💬 Commented on [#8955](https://github.com/ddev/ddev/pull/8955#issuecomment-6205467660) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💬 Commented on [#8956](https://github.com/ddev/ddev/pull/8956#issuecomment-6205447332) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. ❗️ Opened issue [#9013](https://github.com/ddev/ddev/issues/9013) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💪 Opened PR [#9012](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. ✔️ Closed issue [#9005](https://github.com/ddev/ddev/issues/9005) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 💬 Commented on [#7372](https://github.com/ddev/ddev/issues/7372#issuecomment-6388533209) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#7372](https://github.com/ddev/ddev/issues/7372#issuecomment-6387778515) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💬 Commented on [#752](https://github.com/ddev/ddev.com/pull/752#issuecomment-6384427043) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+7. ❌ Closed PR [#752](undefined) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+8. 💬 Commented on [#9006](https://github.com/ddev/ddev/pull/9006#issuecomment-6356075791) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. ❗️ Opened issue [#9011](https://github.com/ddev/ddev/issues/9011) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 👍 Approved [#9009](https://github.com/ddev/ddev/pull/9009#pullrequestreview-5634895416) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#8895](https://github.com/ddev/ddev/issues/8895#issuecomment-6374480892) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#759](https://github.com/ddev/ddev.com/pull/759#issuecomment-6346076139) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+13. ❗️ Opened issue [#1](https://github.com/rfay/dotfiles/issues/1) in [rfay/dotfiles](https://github.com/rfay/dotfiles)<br>
+14. 💬 Commented on [#8986](https://github.com/ddev/ddev/issues/8986#issuecomment-6368133885) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 👍 Approved [#763](https://github.com/ddev/ddev.com/pull/763#pullrequestreview-5630082158) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+16. 👍 Approved [#762](https://github.com/ddev/ddev.com/pull/762#pullrequestreview-5629331716) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+17. 👍 Approved [#9007](https://github.com/ddev/ddev/pull/9007#pullrequestreview-5628907464) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#9002](https://github.com/ddev/ddev/issues/9002#issuecomment-6348741276) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#189](https://github.com/Lullabot/ddev-playwright/issues/189#issuecomment-6352618817) in [Lullabot/ddev-playwright](https://github.com/Lullabot/ddev-playwright)<br>
+20. 💪 Opened PR [#9006](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
